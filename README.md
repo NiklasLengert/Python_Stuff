@@ -1,2 +1,1 @@
-# Python-Quizz-Code
-Just a basic quizz mock up 
+This repo is for little python coding since I am interested in learning python :)
